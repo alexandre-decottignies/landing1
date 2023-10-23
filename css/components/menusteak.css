@@ -1,0 +1,31 @@
+.menusteak {
+	border-radius: 5px;
+    padding: 30px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    box-shadow: 5px 8px 104px;
+    margin: 10px auto;
+    flex-basis: 421px;
+    background-color: #11100D;
+    color: whitesmoke;
+    flex-wrap: wrap;
+}
+.menusteak img{
+	background-color: #505D3F;
+    border-radius: 10px;
+    width: 200px;
+
+}
+
+.menusteak h3 {
+    
+    font-size: 25px;
+    margin: 20px 0px;
+}
+
+.cards{
+        display: flex;
+    flex-wrap: wrap;
+}
+
